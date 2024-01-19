@@ -10,9 +10,5 @@
 MillieBTZ/MillieBTZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![9fac1008838a2e9a637e2168f61d0cb7](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/aa734c66-0ba9-4c6a-93b0-6e100f1289be)
-![2c1c836b3d40a12b0811b1ebf63b309f](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/6768fcd3-cce6-4e2f-ae70-eb93c8b2ae6b)
-![1e035dd2ebd24d710a537ab39bab2d8a](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/6d121b6e-0ef7-404a-812d-27d29dab15b3)
-![d5f644829da62e5a6211a6b8ace1a16a](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/401933fa-70fe-43fc-951b-0f8b45a35cd2)
-![231dcf913798280d95f1f6bdd7ce6d58](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/71b1a61b-ebbd-490f-b5d3-3048e79af629)
-![4bb0cfc2cfdefd8f825b83e68d387951](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/5f191826-f6d9-4eac-8eb7-7dcd34234971)
+![1 badge](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/157412cf-40b5-4c65-9b04-4867b934b1c4)
+![2](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/3d98c7fd-53f3-4cec-a41e-1e7fd5ddf43c)
