@@ -13,6 +13,4 @@ You can click the Preview link to take a look at your changes.
 ![1 badge](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/157412cf-40b5-4c65-9b04-4867b934b1c4)
 ![2](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/3d98c7fd-53f3-4cec-a41e-1e7fd5ddf43c)
 ![3](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/f32097c2-2918-4a57-98e8-417a476d3ea9)
-https://uploads.codehs.com/9fac1008838a2e9a637e2168f61d0cb7
-https://uploads.codehs.com/2c1c836b3d40a12b0811b1ebf63b309f
-https://uploads.codehs.com/1e035dd2ebd24d710a537ab39bab2d8a
+![4](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/a7bdf278-2138-47b7-b9c2-abe13223bf4b)
