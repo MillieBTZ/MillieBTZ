@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![1 badge](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/157412cf-40b5-4c65-9b04-4867b934b1c4)
 ![2](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/3d98c7fd-53f3-4cec-a41e-1e7fd5ddf43c)
+![3](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/f32097c2-2918-4a57-98e8-417a476d3ea9)
+![4](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/edb9d1a7-c38b-4fc1-a493-280a8d523707)
+![5](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/e7c9538a-fba2-411f-a7cb-e281cd071437)
+![6](https://github.com/MillieBTZ/MillieBTZ/assets/156215913/37c6ef66-adf3-481d-9dd5-ff5cbe07f733)
